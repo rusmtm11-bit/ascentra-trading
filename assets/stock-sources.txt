@@ -1,0 +1,35 @@
+Visual sources used by the website. All photos are loaded from the Pexels CDN
+to keep the repository lightweight, and are free to use under the Pexels
+license at the time of site creation.
+
+Pexels - Busy Port During Night Time - https://www.pexels.com/photo/busy-port-during-night-time-4297388/
+Pexels - International Finance Centre in Hong Kong - https://www.pexels.com/photo/international-finance-centre-in-hong-kong-18458329/
+Pexels - Red Cranes and Multicoloured Cargo Containers on a Coast - https://www.pexels.com/photo/red-cranes-and-multicoloured-cargo-containers-on-a-cost-12999282/
+Pexels - Containers in Harbor by the Sea - https://www.pexels.com/photo/containers-in-harbor-by-the-sea-10778274/
+Pexels - City Skyline Viewed from the Port of Hong Kong - https://www.pexels.com/photo/city-skyline-viewed-from-the-port-of-hong-kong-24345769/
+Pexels - Industrial Raw Material Rolls and Manufacturing Texture - https://www.pexels.com/photo/373543/
+Pexels - Professional Handshake Between Business Partners - https://www.pexels.com/photo/professional-handshake-between-business-partners-33175653/
+Pexels - Birds-eye View Photo of Freight Containers - https://www.pexels.com/photo/birds-eye-view-photo-of-freight-containers-2226458/
+Pexels - Laboratory Test Tubes - https://www.pexels.com/photo/laboratory-test-tubes-2280549/
+Pexels - Forklifts in the Warehouse - https://www.pexels.com/photo/forklifts-in-the-warehouse-11500419/
+Pexels - Hong Kong Skyline at Night - https://www.pexels.com/photo/photo-of-hong-kong-skyline-at-night-3038813/
+Pexels - Blue Aerial Lift and Forklift Trucks - https://www.pexels.com/photo/blue-aerial-lift-and-forklift-trucks-16105409/
+Pexels - Close-up of Car Brake Caliper and Disc - https://www.pexels.com/photo/close-up-of-car-brake-caliper-and-disc-34277926/
+
+Pexels - Colorful Fabrics - https://www.pexels.com/photo/colorful-fabrics-5872/
+Pexels - Black Carbon Fiber - https://www.pexels.com/photo/black-carbon-fiber-596815/
+Pexels - Cosmetic Products - https://www.pexels.com/photo/cosmetic-products-3018845/
+Pexels - Assorted Spices Near White Ceramic Bowls - https://www.pexels.com/photo/assorted-spices-near-white-ceramic-bowls-678414/
+Pexels - Assorted Plastic Bottles - https://www.pexels.com/photo/assorted-plastic-bottles-802221/
+Pexels - Metal Bucket in Paint Against White Background - https://www.pexels.com/photo/metal-bucket-in-paint-against-white-background-5691684/
+Pexels - Cement Flowing at a Construction Site - https://www.pexels.com/photo/building-construction-building-site-constructing-2469/
+Pexels - High Angle Photograph of Blue Metal Barrels - https://www.pexels.com/photo/high-angle-photograph-of-blue-metal-barrels-615670/
+Pexels - Wheat Kernels - https://www.pexels.com/photo/wheat-kernels-54084/
+Pexels - Modern Glass Building - https://www.pexels.com/photo/modern-glass-building-12476476/
+Pexels - Green Computer Circuit Board - https://www.pexels.com/photo/green-computer-circuit-board-159220/
+
+Logo
+----
+The ASCENTRA Trading Limited mark was supplied by the client and is used as
+the brand logo across the site (header, footer, favicons, social image)
+in logo-icon.png, logo-icon-white.png and the favicon files.
