@@ -47,3 +47,17 @@ if (home) {
     }
   }, { passive: true });
 }
+
+// Visitors forwarded from the old wealthymega.com domain see a one-line rename notice.
+(function () {
+  if (!/[?&]from=wealthymega\b/.test(location.search)) return;
+  var bar = document.createElement('div');
+  bar.className = 'rename-notice';
+  bar.setAttribute('role', 'status');
+  bar.innerHTML = '<span><strong>Wealthy Mega Trade Limited</strong> is now <strong>ASCENTRA Trading Limited</strong>. Same services, new name.</span>' +
+    '<button type="button" aria-label="Close">&times;</button>';
+  bar.querySelector('button').addEventListener('click', function () { bar.remove(); });
+  document.body.insertBefore(bar, document.body.firstChild);
+  requestAnimationFrame(function () { if (window.scrollY < 120) window.scrollTo(0, 0); });
+  history.replaceState(null, '', location.pathname + location.hash);
+})();
